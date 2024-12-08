@@ -1,4 +1,6 @@
-The folder contains
+Download FullVarData.mat (https://tinyurl.com/bWSME-humanEPK) and AlaScanData.mat (https://tinyurl.com/AlanineScan). As the sizes of these two files are large, they are housed in a permananet location with free download access.
+
+The Github page contains
 
 1.	PDBs.zip folder contains all the PDB files used in the work. The "_A" suffix corresponds to active, while "_I" corresponds to inactive conformational state of the kinase.
 
